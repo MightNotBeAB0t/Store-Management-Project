@@ -14,9 +14,7 @@ Use your knowledge of object-oriented programming and class structure and design
 - **Implement a toString() method** – Write toString() methods in the superclass and subclasses that return information about the state of an object.
 
 ## UML Diagram
-
-Put and image of your UML Diagram here. Upload the image of your UML Diagram to your repository, then use the Markdown syntax to insert your image here.
-
+My UML Diagram (A rough draft)
 ![UML Diagram for my project (Rough Draft)](UMLDiagram.png)
 
 ## Description
