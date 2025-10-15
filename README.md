@@ -17,8 +17,9 @@ Use your knowledge of object-oriented programming and class structure and design
 
 Put and image of your UML Diagram here. Upload the image of your UML Diagram to your repository, then use the Markdown syntax to insert your image here.
 
-![UML Diagram for my project](UMLDiagram.png)
+![UML Diagram for my project (Rough Draft)](UMLDiagram.png)
 
 ## Description
+My project makes a class structure for a store management system. I chose airsoft because it's something I was most familiar with. My code does not use a user input (scanner). Each subclass of the class structure represents a real product. Each variable is an attribute of that real item. Airsoft guns have different color. Bbs have differnt weights. Each variable makes it unique from eachother, but all connected because they are airsoft products. The code prints out 2 customer's orders. One being a airsoft gun, and the other being bbs. 
 
-Write a description of your project here. Include what your store you made, and why you chose this topic. In your description, include as many vocab words from our class to explain how you represented the item/service from your store. If you have user input, explain how the user will interact with your store such as which questions are prompted to the user, what response is your program expecting, and how that is used to output information for your store in the console.
+
